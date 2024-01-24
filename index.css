@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 1em;
+  min-width: 30rem;
+}
+
+.input {
+  width: 100%;
+  padding: 1em;
+  font-size: 1rem;
+  margin-bottom: 1em;
+}
+
+.btn {
+  padding: 1em 2em;
+  margin-right: 1em;
+  font-size: inherit;
+  text-transform: uppercase;
+  border: 1px solid #5f9341;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-save-input,
+.btn-save-tab {
+  background-color: #5f9341;
+  color: #fff;
+}
+
+.btn-delete {
+  color: #5f9341;
+}
+
+.list {
+  color: #5f9341;
+  margin-top: 1em;
+  list-style: none;
+  font-size: 1.5rem;
+}
+
+li {
+  margin-top: 0.5em;
+}
+
+li a {
+  color: #5f9341;
+}

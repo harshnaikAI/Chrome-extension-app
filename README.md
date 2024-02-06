@@ -7,7 +7,7 @@ In this project we can add website and delete it from our list.
 1. Key Features
    - Add or remove user input
    - Add or remove the Website link to the list
-   - Technology used - HTML, CSS, JS, Local storage, Chrome API.
+   - Technology used - HTML, CSS, JS, Browser's Local storage, Chrome API.
   
 2. screen shot
 

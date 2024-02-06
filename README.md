@@ -1,21 +1,19 @@
-# co9a446609df2474539d99006
+# Chrome Extension
 
-Quick start:
+Project from Scrimba's " The Front End Developer Carrier Path ".
 
-```
-$ npm install
-$ npm start
-````
+In this project we can add website and delete it from our list.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+1. Key Features
+   - Add or remove user input
+   - Add or remove the Website link to the list
+   - Technology used - HTML, CSS, JS, Local storage, Chrome API.
+  
+2. screen shot
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+   - ![save-website-chrome-extension](https://github.com/harshnaikAI/Chrome-extension-app/assets/124079700/ba205017-87ab-46a7-91d9-9caafa57dec0)
+  
+  
+## Link 
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+   - [Netlify URL](https://chrome-extension-app-scrimb-pro.netlify.app/)

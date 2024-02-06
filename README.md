@@ -2,7 +2,7 @@
 
 Project from Scrimba's " The Front End Developer Carrier Path ".
 
-In this project we can add website and delete it from our list.
+In this project we can add and delete opend website's in Chrome to our list.
 
 1. Key Features
    - Add or remove user input
